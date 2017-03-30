@@ -14,7 +14,7 @@ We aim to support all stable versions of a operating system.
 
 Pkg attems to automatically install a package based on the information given. For example:
 
-```json
+```javascript
 {
   "type": "pkg",
   "name": "docker",
@@ -31,7 +31,7 @@ This will
 
 For cases where all other methods fail, you can set the package name manually.
 
-```json
+```javascript
 {
   // applies to all debian versions
   "debian": "docker.io",
