@@ -12,7 +12,7 @@ We aim to support all stable versions of a operating system.
 
 ## How it works
 
-Pkg attems to automatically install a package based on the information given. For example:
+Pkg attempts to automatically install a package based on the information given. For example:
 
 ```javascript
 {
